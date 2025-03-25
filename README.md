@@ -1,6 +1,4 @@
-# AngryOxide 😡
-
-![Logo](death.png)
+# AngryOxide
 
 ### A 802.11 Attack tool built in Rust 🦀 !
 
