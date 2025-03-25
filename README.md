@@ -2,7 +2,6 @@
 
 ### A 802.11 Attack tool built in Rust 🦀 !
 
-[![Builds and Release](https://github.com/Ragnt/AngryOxide/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/Ragnt/AngryOxide/actions/workflows/ci.yml) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Ragnt/AngryOxide) [![Discord](https://img.shields.io/discord/1194365883099922643)](https://discord.gg/QsEgaFndsQ)
 
 **This tool is for research purposes only. I am not responsible for anything you do or damage you cause while using AngryOxide. Only use against networks that you have permission.**
 
@@ -165,8 +164,3 @@ cross build +nightly --target mips-unknown-linux-musl --release -Zbuild-std
 ### Completions script:
 
 These make using AngryOxide with bash and zsh a bit more fluid, automatically finding your wireless interfaces for you and showing you the arguments in a tab-completable way.
-
-## Screenshots!
-
-![Access Points Page](screenshots/ap_tab.png)
-![Handshakes Page](screenshots/handshakes_tab.png)
